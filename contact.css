@@ -16,6 +16,10 @@ body{
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
 }
+.recaptcha{
+width:300px;	
+	
+}
 .logo{
     position:absolute;
     margin-left:220px;
